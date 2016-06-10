@@ -1,12 +1,6 @@
-
-#####################################################################
-### Assignment skeleton
-### You can alter the below code to make your own dynamic website.
-### The landing page for assignment 3 should be at /assignment3/
-#####################################################################
-
 from bottle import static_file, route, run, default_app, debug, request
 
+# Global variables
 input_series = ['Breaking Bad','Peaky Blinders','True Detective']
 ratings = [0,0,0]
 rating_number = [0,0,0]
@@ -399,12 +393,6 @@ route('/add_new_serie', 'POST', add_serie)
 route('/rating', 'GET', rating_page) 
 route('/rating', 'POST', rating_page) 
 route('/static/<filename>', 'GET', server_static)
-
-#####################################################################
-### Don't alter the below code.
-### It allows this website to be hosted on PythonAnywhere
-### OR run on your computer.
-#####################################################################
 
 # This line makes bottle give nicer error messages
 debug(True)
