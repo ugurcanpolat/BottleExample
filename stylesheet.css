@@ -1,0 +1,386 @@
+.brb {
+	background-color: #3CB371;
+	font-family: Verdana;
+	color: #2F4F4F;
+}
+
+.pb {
+	background-color: #778899;
+	font-family: Verdana;
+	color: #a8b2bd;
+}
+
+.td {
+	background-color: #a6a6a6;
+	font-family: Verdana;
+	color: #e6e6e6;
+}
+
+.page {
+	background-color: #93aed2;
+	font-family: Verdana;
+	color: #35547e;
+	margin: 0px;
+}
+
+.head {
+	text-align: center;
+	padding: 85px;
+	background-repeat: repeat;
+	height: 223px;
+}
+
+.homepagebox {
+	border-radius: 10px;
+	border: 1px solid #263c5a;
+	background-color: #6f94c3;
+	height: 120px;
+	width: 400px;
+	text-align: center;
+	margin:auto;
+}
+
+.a3_inputbox {
+	border-radius: 10px;
+	border: 1px solid #263c5a;
+	background-color: #6f94c3;
+	height: 125px;
+	width: 430px;
+	text-align: center;
+	margin:auto;
+}
+
+.homepagebutton {
+	border-radius: 5px;
+	border: 1px solid #263c5a;
+	height: 22px;
+	width: 100px;
+	text-align: center;
+}
+
+.get_serie {
+	border-radius: 10px;
+	border: 1px solid #263c5a;
+	background-color: #6f94c3;
+	height: 130px;
+	width: 500px;
+	text-align: center;
+	margin:auto;
+}
+
+.show_rating {
+	border-radius: 6px;
+	border: 1px solid #263c5a;
+	background-color: #6f94c3;
+	height: 23px;
+	width: 240px;
+	text-align: center;
+	margin:auto;
+}
+
+.add_serie {
+	border-radius: 10px;
+	border: 1px solid #263c5a;
+	background-color: #6f94c3;
+	height: 110px;
+	width: 460px;
+	text-align: center;
+	margin:auto;
+}
+
+.brb_imgborder {
+	border: 1px solid #006400;
+	border-radius: 1%;
+}
+
+.pb_imgborder {
+	border: 1px solid #21262c;
+	border-radius: 1%;
+}
+
+.td_imgborder {
+	border: 1px solid #333333;
+	border-radius: 1%;
+}
+
+.brb_serie_selector {
+	border-radius: 5px;
+	border: 1px solid #006400;
+	background-color: #2E8B57;
+	height: 150px;
+	width: 200px;
+	margin: auto;
+	text-align:center;
+}
+
+.pb_serie_selector {
+	border-radius: 5px;
+	border: 1px solid #21262c;
+	background-color: #4d5966;
+	height: 150px;
+	width: 200px;
+	margin: auto;
+	text-align:center;
+}
+
+.td_serie_selector {
+	border-radius: 5px;
+	border: 1px solid #333333;
+	background-color: #808080;
+	height: 150px;
+	width: 200px;
+	margin: auto;
+	text-align:center;
+}
+
+.a3_hellobox {
+	border-radius: 5px;
+	border: 1px solid #263c5a;
+	background-color: #6f94c3;
+	height: 40px;
+	width: 350px;
+	margin: auto;
+	text-align:center;
+}
+
+.brb_headbox {
+	border-radius: 5px;
+	border: 1px solid #006400;
+	background-color: #2E8B57;
+	height: 40px;
+	width: 260px;
+	margin: auto;
+	text-align:center;
+}
+
+.pb_headbox {
+	border-radius: 5px;
+	border: 1px solid #21262c;
+	background-color: #4d5966;
+	height: 40px;
+	width: 300px;
+	margin: auto;
+	text-align:center;
+}
+
+.td_headbox {
+	border-radius: 5px;
+	border: 1px solid #333333;
+	background-color: #808080;
+	height: 40px;
+	width: 280px;
+	margin: auto;
+	text-align:center;
+}
+
+.brb_imagebox {
+	border-radius: 5px;
+	border: 1px solid #006400;
+	background-color: #2E8B57;
+	height: 370px;
+	width: 660px;
+	margin: auto;
+	text-align:center;
+}
+
+.rate_inseries_brb {
+  	border-radius: 5px;
+	border: 1px solid #006400;
+	background-color: #2E8B57;
+	height: 140px;
+	width: 275px;
+	margin: auto;
+	text-align:center;
+}
+
+.pb_imagebox {
+	border-radius: 5px;
+	border: 1px solid #21262c;
+	background-color: #4d5966;
+	height: 370px;
+	width: 660px;
+	margin: auto;
+	text-align:center;
+}
+
+.rate_inseries_pb {
+  	border-radius: 5px;
+	border: 1px solid #21262c;
+	background-color: #4d5966;
+	height: 140px;
+	width: 275px;
+	margin: auto;
+	text-align:center;
+}
+
+.td_imagebox {
+	border-radius: 5px;
+	border: 1px solid #333333;
+	background-color: #808080;
+	height: 370px;
+	width: 660px;
+	margin: auto;
+	text-align:center;
+}
+
+.rate_inseries_td {
+  	border-radius: 5px;
+	border: 1px solid #333333;
+	background-color: #808080;
+	height: 140px;
+	width: 275px;
+	margin: auto;
+	text-align:center;
+}
+
+.brb_checkbox {
+	border-radius: 5px;
+	border: 1px solid #006400;
+	background-color: #2E8B57;
+	height: 130px;
+	width: 260px;
+	margin: auto;
+	text-align:center;
+}
+
+.pb_checkbox {
+	border-radius: 5px;
+	border: 1px solid #21262c;
+	background-color: #4d5966;
+	height: 70px;
+	width: 260px;
+	margin: auto;
+	text-align:center;
+}
+
+.td_checkbox {
+	border-radius: 5px;
+	border: 1px solid #333333;
+	background-color: #808080;
+	height: 70px;
+	width: 260px;
+	margin: auto;
+	text-align:center;
+}
+
+.addbox {
+	border-radius: 5px;
+	border: 1px solid #263c5a;
+	background-color: #6f94c3;
+	color: #35547e;
+	height: 80px;
+	width: 300px;
+	margin: auto;
+	text-align:center;
+}
+
+.errorbox {
+	border-radius: 5px;
+	border: 1px solid #263c5a;
+	background-color: #6f94c3;
+	color: #35547e;
+	height: 130px;
+	width: 500px;
+	margin: auto;
+	text-align:center;
+}
+
+.spacebox {
+	border-radius: 5px;
+	border: 1px solid #263c5a;
+	background-color: #6f94c3;
+	color: #35547e;
+	height: 30px;
+	width: 550px;
+	margin: auto;
+	text-align:center;
+	font-size:1.3em;
+}
+
+.ratebox {
+  	border-radius: 5px;
+	border: 1px solid #263c5a;
+	background-color: #6f94c3;
+	color: #35547e;
+	height: 140px;
+	width: 275px;
+	margin: auto;
+	text-align:center;
+}
+
+.votebox {
+  	border-radius: 5px;
+	border: 1px solid #263c5a;
+	background-color: #6f94c3;
+	color: #35547e;
+	height: 22px;
+	width: 400px;
+	margin: auto;
+	text-align:center;
+}
+
+.brb_table {
+	margin:auto;
+	border:1px solid #006400;
+	border-radius: 4px;
+	background-color:#439768;
+}
+
+.pb_table {
+	margin:auto;
+	border:1px solid #21262c;
+	border-radius: 4px;
+	background-color:#4d5966;
+}
+
+.td_table {
+	margin:auto;
+	border:1px solid #333333;
+	border-radius: 4px;
+	background-color:#808080;
+}
+
+.table_rating_table {
+	margin:auto;
+	border:1px solid #263c5a;
+	border-radius: 4px;
+	background-color: #6f94c3;
+	color: #35547e;
+}
+
+.table_rating_td {
+	margin:auto;
+	border:1px solid #263c5a;
+	border-radius: 3px;
+	background-color: #6f94c3;
+	color: #35547e;
+}
+
+.rating_td {
+	margin:auto;
+	border:1px solid #263c5a;
+	border-radius: 3px;
+	background-color: #6f94c3;
+	color: #35547e;
+	text-align:center;
+}
+
+.global_link {
+	text-decoration: none;
+	color: #263c5a;
+}
+
+span a:hover {
+	font-style: bold;
+	text-decoration: none;
+	color: #172436;
+	font-size: 1.01em;
+}
+
+
+
+
+
+
+
+
